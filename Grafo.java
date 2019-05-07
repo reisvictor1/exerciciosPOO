@@ -23,8 +23,14 @@ public class Grafo {
     }
     
     
+    void caminhoMinimo(){
+     
+        
+        
+    }
     
-    void CriarGrafo(){
+    
+    void criarGrafo(){
         
         String nome_cidade;
         HashMap<String, Integer> adj;
@@ -50,7 +56,11 @@ public class Grafo {
         
     }
     
-    
+    void imprimirGrafo(){
+       
+        
+        
+    }
     
    
 }

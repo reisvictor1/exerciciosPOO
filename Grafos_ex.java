@@ -30,7 +30,10 @@ public class Grafos_ex extends Grafo{
             System.out.println("Deu erro ao abrir o arquivo");
         }
         
-        cidades.criaGrafo();
+        if(cidades != null){
+             cidades.criaGrafo();
+        }
+       
         
     }
     
