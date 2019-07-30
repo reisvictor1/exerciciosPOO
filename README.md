@@ -1,6 +1,11 @@
-POO classes 
-
-Creating projects on JAVA/ Python
 
 
-VideoPoker em sua versão de UI, mostra-se com um problema nos botões(quando se remove/adiciona paineis no JFrame). Será consertado em breve.
+Creating projects on JAVA for POO classes
+
+
+
+GUI_VideoPoker: Videopoker game made in JAVA and extending Video_Poker logic codes, adding a GUI.
+
+
+
+// TO DO: create folders
